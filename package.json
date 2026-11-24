@@ -1,0 +1,14 @@
+{
+  "name": "tecx-open-starter-mcp",
+  "version": "1.0.0",
+  "description": "Free Open-Source Starter MCP Server by TecX AI for Store Health & Order Format Validation",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "zod": "^3.23.8"
+  }
+}
